@@ -1,0 +1,7 @@
+D:\Grzegorz\Studia\Semestr 6\SI\CSP\CSPLista2\CSPLista2\obj\Debug\CSPLista2.csprojResolveAssemblyReference.cache
+D:\Grzegorz\Studia\Semestr 6\SI\CSP\CSPLista2\CSPLista2\obj\Debug\CSPLista2.csproj.CoreCompileInputs.cache
+D:\Grzegorz\Studia\Semestr 6\SI\CSP\CSPLista2\CSPLista2\bin\Debug\CSPLista2.exe.config
+D:\Grzegorz\Studia\Semestr 6\SI\CSP\CSPLista2\CSPLista2\bin\Debug\CSPLista2.exe
+D:\Grzegorz\Studia\Semestr 6\SI\CSP\CSPLista2\CSPLista2\bin\Debug\CSPLista2.pdb
+D:\Grzegorz\Studia\Semestr 6\SI\CSP\CSPLista2\CSPLista2\obj\Debug\CSPLista2.exe
+D:\Grzegorz\Studia\Semestr 6\SI\CSP\CSPLista2\CSPLista2\obj\Debug\CSPLista2.pdb
